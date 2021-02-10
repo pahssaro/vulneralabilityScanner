@@ -1,12 +1,3 @@
-A BASE LOGICA DO CODIGO VEM DO https://github.com/anouarbensaad/vulnx
-
-USAMOS PARA APRIMORAR :
-
-https://github.com/mrwn007/M3M0
-
-https://github.com/hacktoolspack/hack-tools
-
-
 O script é voltado para analise de vulnerabilidade em sites criados em frame works especificos como (Joomla, Wordpress, PrestaShop)
 
 Com base em vulnerabilidades ja conhecidas usamos na maioria das vezes a tentativa brute force embora em Wordpress temos arquivos e scripts para tentar explorar as vulnerabilidades.
